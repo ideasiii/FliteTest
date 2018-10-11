@@ -93,6 +93,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../HTSTTSTest/app/src/main/java/more/dsi/iii/com/htsttstest/MainActivity.java">
           <value>
             <set />
@@ -173,12 +178,77 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../HelloCoordinatorLayoutBehavior/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HelloCoordinatorLayoutBehavior/app/src/main/java/com/simon/hellocoordinatorlayout/FloatingActionButtonBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HelloCoordinatorLayoutBehavior/app/src/main/java/com/simon/hellocoordinatorlayout/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HelloCoordinatorLayoutBehavior/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../HelloCoordinatorLayoutBehavior/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../III_MORE_DEMO/app/src/main/java/com/iii/more/logic/LogicHandler.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../III_MORE_DEMO/app/src/main/java/com/iii/more/main/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../StanfordChineseParserTest/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../StanfordChineseParserTest/app/src/main/java/more/dsi/iii/com/stanfordchineseparsertest/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-ndk-sample/SocketTester/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-ndk-sample/SocketTester/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-ndk-sample/SocketTester/app/src/main/cpp/native-lib.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-ndk-sample/SocketTester/app/src/main/java/more/dsi/iii/com/sockettester/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/EmotionUnitTester/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/EmotionUnitTester/app/src/main/java/iii/ideas/emotionunittester/MainActivity.java">
           <value>
             <set />
           </value>
